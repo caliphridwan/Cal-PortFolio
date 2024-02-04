@@ -1,0 +1,6 @@
+w-full (100vw)
+h-screen(100vh)
+object-cover (background-size: cover)
+object-left
+scale-x-[-1] (to flip an image)
+bg-white/50 (opacity of 50 to make the background transparent)

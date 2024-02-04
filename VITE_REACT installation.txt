@@ -1,0 +1,44 @@
+npm create vite@latest
+.... follow commands
+
+after switching to cd (named-project)
+type.... npm i..... to install dependencies
+..
+npm run dev
+
+then copy localhost:5173 and paste in browser
+
+
+SAMPLE CODE (READ ME)
+inside src folder, create "components" folder
+inside components folder, create a file "sidenav.jsx"
+
+TO INSTALL REACT ICONS
+npm i react-icons --save
+
+
+TO INSTALL TAILWIND
+go to tailwindcss.com
+framework guide
+vite
+
+npm install -D tailwindcss postcss autoprefixer
+
+content ["./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",],
+
+COPY THE FOLLOWING AND PASTE IN INDEX.CSS file (delete whats in there)
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+proceed to delete the app.css
+
+npm i react-type-animation (FOR ANIMATIONS)
+THEN ADD TO HEADER
+import { TypeAnimation } from 'react-type-animation'
+
+
