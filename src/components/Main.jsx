@@ -37,10 +37,10 @@ const Main = () => {
     />
         </h2>
         <div className='flex justify-between pt-6 max-w-[200px] w-full' >   
-        <AiOutlineFacebook  className='cursor-pointer' size={20}/>
-        <AiOutlineTwitter  className='cursor-pointer' size={20}/>
-        <AiOutlineInstagram className='cursor-pointer'  size={20}/>
-        <AiOutlineLinkedin className='cursor-pointer'  size={20}/>
+       <a href="https://web.facebook.com/abdulkareem.ridwan.3/"> <AiOutlineFacebook  className='cursor-pointer' size={20}/></a>
+       <a href="https://twitter.com/CaliphRidwan"> <AiOutlineTwitter  className='cursor-pointer' size={20}/></a>
+        <a href='https://www.instagram.com/caliphriddy/'><AiOutlineInstagram className='cursor-pointer'  size={20}/></a>
+        <a href='https://www.linkedin.com/in/ridwan-abdulkareem-o-41315b20b/'><AiOutlineLinkedin className='cursor-pointer'  size={20}/></a>
         
 
         </div>
