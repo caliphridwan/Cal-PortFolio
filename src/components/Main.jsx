@@ -20,13 +20,15 @@ const Main = () => {
         'Software Developer',
         3000, // wait 1s before replacing "Mice" with "Hamsters"
         'Web Developer',
-        2000,
+        3000,
         'Tech Enthusiast',
-        2000,
+        3000,
         'Software Development Instructor',
-        2000,
+        3000,
         'Data Analyst',
-        3000
+        3000,
+        'Graphics Designer',
+        3000,
       ]}
       wrapper="span"
       speed={50}
